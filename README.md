@@ -1,55 +1,29 @@
-🏋️ Gym Management Application
+🏋️‍♂️ FitLife – Gym Management Platform
 
-Technologies utilisées :
-Cette application est une plateforme complète de gestion de gym permettant aux utilisateurs de :
+FitLife est une application innovante pour les amateurs de fitness et les gyms modernes. Elle permet de réserver des séances de sport en ligne ou sur place, d’acheter des articles dans la boutique, de suivre les événements sportifs et de découvrir vos coachs préférés, le tout depuis une interface intuitive et fluide.
 
-Réserver des séances de sport en ligne ou en présentiel.
+💡 Fonctionnalités clés
 
-Acheter des produits dans la boutique.
+📅 Réservation intelligente : planifiez vos séances en présentiel ou à distance selon votre emploi du temps et la disponibilité des coachs.
 
-Participer à des événements sportifs.
+🛍️ Boutique intégrée : achetez facilement vêtements, accessoires et suppléments pour rester au top de votre performance.
 
-Découvrir les coach(s) disponibles.
+🎉 Événements exclusifs : participez à des challenges et événements sportifs organisés par le gym.
 
-🚀 Fonctionnalités
+👨‍🏫 Profil des coachs : découvrez leurs spécialités, consultez leurs horaires et réservez directement avec eux.
 
-📅 Réservation de séances : en ligne ou en présentiel, gestion des horaires et disponibilité.
+📊 Administration complète : gérez les utilisateurs, coachs, produits, réservations et événements via un tableau de bord clair et efficace.
 
-👨‍🏫 Gestion des coachs : profils, spécialités et planning.
+🏗️ Technologie
 
-🛒 Boutique en ligne : produits sportifs, gestion des stocks et commandes.
+💻 Frontend Desktop : JavaFX pour une expérience utilisateur fluide et réactive.
 
-🎉 Événements : participation aux événements, notifications et rappels.
+⚡ Backend : Symfony REST API pour gérer toutes les interactions et sécuriser les données.
 
-🛠️ Administration : gestion des utilisateurs, coachs, produits et séances, tableau de bord.
+🗄️ Base de données : MySQL pour stocker utilisateurs, séances, produits, commandes, événements et coachs.
 
-🏗️ Architecture
+🎨 Technologies et icônes
 
-Frontend Desktop : JavaFX pour une interface fluide et interactive.
-
-Backend : Symfony REST API pour gérer les données avec MySQL.
-
-Base de données : MySQL pour stocker utilisateurs, séances, commandes, produits, événements et coachs.
-
-⚡ Installation
-
-Cloner le repository :
-
-git clone https://github.com/ton-utilisateur/nom-du-projet.git
-
-
-Configurer MySQL avec le script fourni (database.sql).
-
-Configurer le backend Symfony :
-
-composer install
-php bin/console doctrine:migrations:migrate
-symfony server:start
-
-
-Lancer le frontend JavaFX depuis votre IDE ou via un JAR exécutable.
-
-🤝 Contributions
-
-Les contributions sont les bienvenues !
-Merci de respecter les bonnes pratiques JavaFX, Symfony et MySQL.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JavaFX" width="30"/> JavaFX  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30"/> MySQL  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" width="30"/> Symfony
