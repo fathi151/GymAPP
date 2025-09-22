@@ -1,6 +1,28 @@
 🏋️‍♂️ FitLife – Gym Management Platform
 
 FitLife est une application innovante pour les amateurs de fitness et les gyms modernes. Elle permet de réserver des séances de sport en ligne ou sur place, d’acheter des articles dans la boutique, de suivre les événements sportifs et de découvrir vos coachs préférés, le tout depuis une interface intuitive et fluide.
+🎨 Technologies et icônes
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JavaFX" width="30"/> JavaFX  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30"/> MySQL  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" width="30"/> Symfony
+
+
+
+SCREENSHOTS
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 💡 Fonctionnalités clés
 
@@ -22,8 +44,4 @@ FitLife est une application innovante pour les amateurs de fitness et les gyms m
 
 🗄️ Base de données : MySQL pour stocker utilisateurs, séances, produits, commandes, événements et coachs.
 
-🎨 Technologies et icônes
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JavaFX" width="30"/> JavaFX  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30"/> MySQL  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" width="30"/> Symfony
